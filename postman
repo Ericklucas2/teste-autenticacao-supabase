@@ -1,0 +1,48 @@
+{
+    "access_token": "eyJhbGciOiJFUzI1NiIsImtpZCI6Ijk2NGM5Y2Y0LTk5Y2MtNGU1Ny05NTI1LTU5Y2Y0NTZjZWM0YiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2ltdGVuemF5ZXl3Z2N2Z29mdGlkLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJmZjA3MjdjNC0xMzBjLTQ0NzEtYmZmNS1kYTc5MTY2ODE2MDgiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzk1NzM3OTc0LCJpYXQiOjE3OTU3MzQzNzQsImVtYWlsIjoiZXJpY2subEBlbWFpbC5jb20iLCJwaG9uZSI6IiIsImFwcF9tZXRhZGF0YSI6eyJwcm92aWRlciI6ImVtYWlsIiwicHJvdmlkZXJzIjpbImVtYWlsIl19LCJ1c2VyX21ldGFkYXRhIjp7ImVtYWlsX3ZlcmlmaWVkIjp0cnVlfSwicm9sZSI6ImF1dGhlbnRpY2F0ZWQiLCJhYWwiOiJhYWwxIiwiYW1yIjpbeyJtZXRob2QiOiJwYXNzd29yZCIsInRpbWVzdGFtcCI6MTc5NTczNDM3NH1dLCJzZXNzaW9uX2lkIjoiNjEzNjQ3MDUtOWNlMi00MWMzLTkxNWEtY2I5NWJiYjNiNWFkIiwiaXNfYW5vbnltb3VzIjpmYWxzZX0.n6rC3mxHLt9Jz0U3SKCae8_sFgSwFgCDqIIucvpiWriOetEedMwpRQ4BA8ggfrXPuCQ95QcloLtEjEIISlQ1DA",
+    "token_type": "bearer",
+    "expires_in": 3600,
+    "expires_at": 1795737974,
+    "refresh_token": "rqylcadey7hw",
+    "user": {
+        "id": "ff0727c4-130c-4471-bff5-da7916681608",
+        "aud": "authenticated",
+        "role": "authenticated",
+        "email": "erick.l@email.com",
+        "email_confirmed_at": "2026-11-26T22:52:30.223386Z",
+        "phone": "",
+        "confirmed_at": "2026-11-26T22:52:30.223386Z",
+        "last_sign_in_at": "2026-11-26T23:06:14.401841133Z",
+        "app_metadata": {
+            "provider": "email",
+            "providers": [
+                "email"
+            ]
+        },
+        "user_metadata": {
+            "email_verified": true
+        },
+        "identities": [
+            {
+                "identity_id": "12b72c70-af9f-4cee-970a-8f27861fb395",
+                "id": "ff0727c4-130c-4471-bff5-da7916681608",
+                "user_id": "ff0727c4-130c-4471-bff5-da7916681608",
+                "identity_data": {
+                    "email": "erick.l@email.com",
+                    "email_verified": false,
+                    "phone_verified": false,
+                    "sub": "ff0727c4-130c-4471-bff5-da7916681608"
+                },
+                "provider": "email",
+                "last_sign_in_at": "2026-11-26T22:52:30.214963Z",
+                "created_at": "2026-11-26T22:52:30.215028Z",
+                "updated_at": "2026-11-26T22:52:30.215028Z",
+                "email": "erick.l@email.com"
+            }
+        ],
+        "created_at": "2026-11-26T22:52:30.190026Z",
+        "updated_at": "2026-11-26T23:06:14.427922Z",
+        "is_anonymous": false
+    },
+    "weak_password": null
+}
